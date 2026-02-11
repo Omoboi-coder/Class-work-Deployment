@@ -1,6 +1,5 @@
-# Deployment Assignment
+# Deployment Classwork
 
-This repository contains the Owner.sol smart contract deployed to Lisk Sepolia and Arc Testnet using both Foundry and Hardhat.
 
 ## Contract Addresses
 
@@ -26,4 +25,4 @@ This repository contains the Owner.sol smart contract deployed to Lisk Sepolia a
 
 ## Networks
 
-- **Celo sepolia
+- **Celo sepolia**
